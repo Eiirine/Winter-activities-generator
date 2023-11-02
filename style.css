@@ -13,9 +13,9 @@
     justify-content: center;
     background: rgb(185,171,160);
     background: linear-gradient(180deg, rgba(185,171,160,1) 0%, rgba(236,236,238,1) 80%, rgba(255,255,255,1) 100%);
-    background-image: url("https://imgur.com/92xVW9V"),
-    url("https://imgur.com/92xVW9V"), 
-    linear-gradient(180deg,  rgba(156,151,157,1) 0%, rgba(228,227,232,1)); 
+    background-image: url('https://imgur.com/hj4ZEln.png'),
+    url("https://i.imgur.com/WIst43S.png"),
+    linear-gradient(180deg,  rgba(156,151,157,1) 0%, rgba(228,227,232,1));  
     background-repeat: no-repeat;
     background-position: bottom;
     background-size: contain;
